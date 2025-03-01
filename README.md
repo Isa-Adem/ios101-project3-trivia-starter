@@ -29,12 +29,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 <div>
-    <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
+    <a href="https://www.loom.com/share/a2b5a57397aa40a398a9576352ec0be7">
+      <p>Simulator - iPhone 16 Pro - 1 March 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
-      <img style="max-width:300px;" src="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
+    <a href="https://www.loom.com/share/a2b5a57397aa40a398a9576352ec0be7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a2b5a57397aa40a398a9576352ec0be7-3c8048c248a9d47c-full-play.gif">
     </a>
-  </div> .
+  </div>
 
   ## License
 
