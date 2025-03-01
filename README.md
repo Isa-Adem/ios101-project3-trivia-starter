@@ -1,5 +1,5 @@
 # ios101-project3-trivia-starter
-# Project 1 - *Wordle*
+# Project 1 - *Trivia Stater*
 
 Submitted by: **Isa Adem**
 
