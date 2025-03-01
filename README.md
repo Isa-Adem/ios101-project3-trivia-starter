@@ -32,7 +32,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
     </a>
     <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5a61e7b8d5a4e10a0c3ba413764c069-5f4c87a942047624-full-play.gif">
+      <img style="max-width:300px;" src="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
     </a>
   </div> .
 
