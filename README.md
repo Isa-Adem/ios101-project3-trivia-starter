@@ -28,7 +28,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
+    </a>
+    <a href="https://www.loom.com/embed/a2b5a57397aa40a398a9576352ec0be7?sid=ec631414-bf9c-46d7-a0c1-65590f461447">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5a61e7b8d5a4e10a0c3ba413764c069-5f4c87a942047624-full-play.gif">
+    </a>
+  </div> .
 
   ## License
 
